@@ -4,11 +4,13 @@
 
 Specially Built For | **Amsterdot: The Virtual Hackathon**
 
+
+
 ## Synopsis
 
 The **Parachain Blog Engine** and **Render Machine** (built to render blog page from JSON data) serves as the foundation for a parachain blog sites and has the ability to scale into a Web3.0 and blockchain-based CMS (Content Management System). It allows users to create a blog page with a simple user interface and then compile all of the blog page's components and uploaded contents into JSON data. The JSON file will then be deployed and stored on the **IPFS (Interplanetary File System)**, which is a distributed file system, with the help of **[Web3.storage](web3.storage)** and **[Pinata](pinata.cloud)**. Users can now render, display and share their blog page simply by utilising the specially-designed Render Machine and the CID obtained when the blog page was created. The required JSON file will be fetched from IPFS and parsed into various components, resulting in a fully-designed blog page. 
 
-#### 🕹️ Live Site | [Parachain Blog Engine](https://parablogs.net)
+#### 🕹️ Live Site | [Parachain Blog Engine](https://parablogs.xyz)
 
 #### ✨ Showcase | [View the pitch deck]
 
